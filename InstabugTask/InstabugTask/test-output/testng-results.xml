@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="9" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48598" started-at="2021-03-13T12:33:58 EET" finished-at="2021-03-13T12:34:47 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48598" started-at="2021-03-13T12:33:58 EET" finished-at="2021-03-13T12:34:47 EET">
+      <class name="Tests.SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.SearchTest@6ac13091]" name="setUp" is-config="true" duration-ms="18177" started-at="2021-03-13T12:33:58 EET" finished-at="2021-03-13T12:34:16 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="3286" started-at="2021-03-13T12:34:16 EET" finished-at="2021-03-13T12:34:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="TestHappySeniro()[pri:1, instance:Tests.SearchTest@6ac13091]" name="TestHappySeniro" duration-ms="5867" started-at="2021-03-13T12:34:21 EET" description="Happy seniro." finished-at="2021-03-13T12:34:27 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHappySeniro -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="977" started-at="2021-03-13T12:34:27 EET" finished-at="2021-03-13T12:34:28 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="TestAsterk()[pri:2, instance:Tests.SearchTest@6ac13091]" name="TestAsterk" duration-ms="2057" started-at="2021-03-13T12:34:28 EET" finished-at="2021-03-13T12:34:30 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAsterk -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="526" started-at="2021-03-13T12:34:30 EET" finished-at="2021-03-13T12:34:31 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="Testclearfield()[pri:3, instance:Tests.SearchTest@6ac13091]" name="Testclearfield" duration-ms="2751" started-at="2021-03-13T12:34:31 EET" finished-at="2021-03-13T12:34:34 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testclearfield -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="521" started-at="2021-03-13T12:34:34 EET" finished-at="2021-03-13T12:34:34 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="Testsapce()[pri:4, instance:Tests.SearchTest@6ac13091]" name="Testsapce" duration-ms="59" started-at="2021-03-13T12:34:34 EET" finished-at="2021-03-13T12:34:34 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testsapce -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="709" started-at="2021-03-13T12:34:34 EET" finished-at="2021-03-13T12:34:35 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="TestSqlInjection()[pri:5, instance:Tests.SearchTest@6ac13091]" name="TestSqlInjection" duration-ms="1694" started-at="2021-03-13T12:34:35 EET" finished-at="2021-03-13T12:34:37 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSqlInjection -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="621" started-at="2021-03-13T12:34:37 EET" finished-at="2021-03-13T12:34:37 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="Testclickable()[pri:6, instance:Tests.SearchTest@6ac13091]" name="Testclickable" duration-ms="99" started-at="2021-03-13T12:34:37 EET" finished-at="2021-03-13T12:34:37 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testclickable -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="489" started-at="2021-03-13T12:34:37 EET" finished-at="2021-03-13T12:34:38 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="TestTime()[pri:7, instance:Tests.SearchTest@6ac13091]" name="TestTime" duration-ms="2494" started-at="2021-03-13T12:34:38 EET" finished-at="2021-03-13T12:34:40 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTime -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="1036" started-at="2021-03-13T12:34:40 EET" finished-at="2021-03-13T12:34:41 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="FAIL" signature="Googlesearhlogo()[pri:8, instance:Tests.SearchTest@6ac13091]" name="Googlesearhlogo" duration-ms="274" started-at="2021-03-13T12:34:41 EET" finished-at="2021-03-13T12:34:42 EET">
+          <exception class="org.openqa.selenium.JavascriptException">
+            <message>
+              <![CDATA[javascript error: Cannot read property 'shadowRoot' of null
+  (Session info: chrome=89.0.4389.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-AFF8GMV', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Farah\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62509}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 221562f6f328d58b200b79c1e640ae7b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.JavascriptException: javascript error: Cannot read property 'shadowRoot' of null
+  (Session info: chrome=89.0.4389.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-AFF8GMV', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\Farah\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62509}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 221562f6f328d58b200b79c1e640ae7b
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+at pages.GoogleHome.findshaowelement(GoogleHome.java:35)
+at Tests.SearchTest.Googlesearhlogo(SearchTest.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.JavascriptException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googlesearhlogo -->
+        <test-method status="PASS" signature="goHome()[pri:0, instance:Tests.SearchTest@6ac13091]" name="goHome" is-config="true" duration-ms="475" started-at="2021-03-13T12:34:42 EET" finished-at="2021-03-13T12:34:42 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method status="PASS" signature="nextpage()[pri:9, instance:Tests.SearchTest@6ac13091]" name="nextpage" duration-ms="2708" started-at="2021-03-13T12:34:42 EET" finished-at="2021-03-13T12:34:45 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextpage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.SearchTest@6ac13091]" name="tearDown" is-config="true" duration-ms="1735" started-at="2021-03-13T12:34:45 EET" finished-at="2021-03-13T12:34:47 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
